@@ -30,5 +30,5 @@ Here you will find the steps to install **DFTB+** code and python dependencies n
  We can try the current model and check the new slopes.
 
 ## Petition
-Please provide samples nanoclusters of different sizes in the folder to test. 
+Please provide 10 samples nanoclusters of different sizes in the folder to test. 
 Thank You!
