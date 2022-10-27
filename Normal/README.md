@@ -1,12 +1,9 @@
 ## Reference energies (Hartree):
 
-PBE Au79   |    -2748.62
---- | --- 
-PBE Water  |    -76.3516
---- | --- 
-DFTB Au79  |    -226.414
---- | --- 
-DFTB Water |    -4.07403
+Functional | Au79 | Water
+--- | --- | --- 
+PBE    |    -2748.62  |    -76.3516
+DFTB |    -226.414 |    -4.07403
 
 ## Notes:
 
