@@ -20,7 +20,7 @@ Here you will find the steps to install **DFTB+** code and python dependencies n
 + Check if the `dftb+` executable exist in the dftbplus/_build/prog/dftb+/ folder. If so, then everything is okay. 
 ```
 
-## Content:
+## Content
  In the "Normal" folder you will find the training with Au79 using no affiny energies to normalize the data, ie. we use the input as it comes from deMon2k and DFTB.
  This is an attemp to eliminate the bias caused by Au79 reference dataset.
  
@@ -29,6 +29,6 @@ Here you will find the steps to install **DFTB+** code and python dependencies n
  
  We can try the current model and check the new slopes.
 
-## Petition:
+## Petition
 Please provide samples nanoclusters of different sizes in the folder to test. 
 Thank You!
